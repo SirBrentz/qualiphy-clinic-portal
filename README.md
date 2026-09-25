@@ -13,7 +13,7 @@ A ground-up redesign of the Qualiphy clinic-facing portal, built as a **private 
 | `v1/` | The working demo — Vite + React SPA, no backend, JSON fixtures |
 | `docs/screenshots/` | Rendered screens (headless-browser captures of the actual build) |
 
-**Live demo:** https://sirbrentz.github.io/qualiphy-clinic-portal/
+**Live demo:** https://sirbrentz.github.io/qualiphy-clinic-portal/ (password required)
 
 ## Run it
 
